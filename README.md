@@ -1,7 +1,8 @@
 # BLDZR
 BootLoader Disc of Zenith Repair
 
-A massive culmination (<1GB) of practically every freeware/open source tool I've ever used to diagnose or repair a computer (out of thousands) over the past 3 years.
+A massive culmination of practically every freeware/open source tool I've ever used to diagnose or repair a computer (out of thousands) over the past 3 years. Less than 200MB zipped, ~306MB unzipped since the Github revision doesn't include the Ubuntu.iso (it's too big @ 700+MB). Including a live/persistant version of Ubuntu still keeps this bootloader disc under <1GB. Which will fit on almost any SD card, will eventually be small enough to fit onto a CD since as-is, it includes several redundancies.
+<br>
 Including live, portable progs and bootable iso's. This repo includes another one of my projects "AutOptimizer" as well as a 100% customizeable GRUB splash screen and interchangeable, bootable isos.
 
 <img src="https://raw.githubusercontent.com/BiTinerary/BLDZR/master/BLDZRimage.png">
