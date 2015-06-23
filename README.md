@@ -9,10 +9,10 @@ A massive culmination of practically every freeware/open source tool I've ever u
 
 # Info 
 
-Less than 200MB zipped, ~306MB unzipped since the Github revision doesn't include the Ubuntu.iso (the commit errors out likely since it's 700+MB). Including a live/persistant version of Ubuntu still keeps this bootloader disc under <1GB. Which will fit on any SD card these days with plenty of space. It will eventually be small enough to fit onto a CD since as-is, it includes several redundancies and the ability to fit on a CD is basically the standard for similar "all in one" repair discs.
+Less than 200MB zipped, ~306MB unzipped since the Github revision doesn't include the Ubuntu.iso (the commit errors out likely since it's 700+MB). Including a live/persistant version of Ubuntu still keeps this bootloader disc under <1GB. Which will fit on any SD card these days with plenty of space. It will eventually be small enough to fit onto a CD since right now it includes several redundancies. In addition, the ability to fit on a single CD is basically the standard for similar "all in one" repair discs.
 <br>
 
-At the moment it's still behind by several version (having trouble uploading alot of small files to github) however currently all you need to do is:
+At the moment it's still behind by several versions however currently all you need to do is:
 
 * Run a program like <a href="http://www.pendrivelinux.com/xboot-multiboot-iso-usb-creator/">Xboot</a> for it's ability to quickly format/partition a drive to boot Grub4Dos/Syslinux. We're essentially using it for a GRUB template.<br>
 <br>
