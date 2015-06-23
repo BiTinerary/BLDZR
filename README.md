@@ -8,6 +8,8 @@ Less than 200MB zipped, ~306MB unzipped since the Github revision doesn't includ
 
 <img src="https://raw.githubusercontent.com/BiTinerary/BLDZR/master/BLDZRimage.png">
 
+Direct .ISO Download: <a href="http://www.mediafire.com/download/yjknnii7knnicsr/BLDZR_Working.iso">http://www.mediafire.com/download/yjknnii7knnicsr/BLDZR_Working.iso</a>
+
 At the moment it's still behind by several version (having trouble uploading alot of small files to github) however currently all you need to do is:
 
 * Run a program like <a href="http://www.pendrivelinux.com/xboot-multiboot-iso-usb-creator/">Xboot</a> for it's ability to quickly format/partition a drive to boot Grub4Dos/Syslinux. We're essentially using it for a GRUB template.<br>
