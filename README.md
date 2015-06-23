@@ -3,7 +3,7 @@ BootLoader Disc of Zenith Repair
 
 Direct .ISO Download: <a href="http://www.mediafire.com/download/yjknnii7knnicsr/BLDZR_Working.iso">http://www.mediafire.com/download/yjknnii7knnicsr/BLDZR_Working.iso</a>
 
-A massive culmination of practically every freeware/open source tool I've ever used to diagnose or repair a computer over the past 3 years. This repo includes another one of my projects "AutOptimizer" as well as a 100% customizeable GRUB splash screen and interchangeable, bootable isos.
+A massive culmination of practically every freeware/open source tool I've ever used to diagnose or repair a computer over the past 3 years. This repo includes a 100% customizeable GRUB splash screen and interchangeable, bootable isos as well as  another one of my GitHub projects; "AutOptimizer."
 
 <img src="https://raw.githubusercontent.com/BiTinerary/BLDZR/master/BLDZRimage.png">
 
