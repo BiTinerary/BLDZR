@@ -15,7 +15,6 @@ Less than 200MB zipped, ~306MB unzipped since the Github revision doesn't includ
 At the moment it's still behind by several versions however currently all you need to do is:
 
 * Run a program like <a href="http://www.pendrivelinux.com/xboot-multiboot-iso-usb-creator/">Xboot</a> for it's ability to quickly format/partition a drive to boot Grub4Dos/Syslinux. We're essentially using it for a GRUB template.<br>
-<br>
 * There's no need to manually select Isos, since you can just drag drop them to the drive later on and most importantly Xboot is does a crappy job of it. Often errors out after waiting quite a bit of time for conversion/transfer of isos.
 <br>
 * Click "Create USB", select target USB, Grub4Dos radio button, Then execute. This should take <10 seconds to make USB bootable to GRUB
