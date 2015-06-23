@@ -22,9 +22,10 @@ At the moment it's still behind by several versions however currently all you ne
 * From here just drag/drop the files in this repo to the jump drive (overwriting existing files) then add custom isos to the (possibly hidden) `.\images` directory.
 <br>
 
-I will be adding more directions later on that explain how to customize the custom background image of GRUB bootloader as well as modifying the `GRUB.cfg` for changing entries, color, dimensions, location, etc...
+#TODO
 
-Will be expanded to include mkisofs command for converting bootable USB into bootable ISO w/ hidden files.
+* Add more directions that explain how to customize the background image of the GRUB bootloader as well as modifying the `GRUB.cfg` for changing entries, color, dimensions, location, etc...
+* Will be expanded to include mkisofs command for converting bootable USB into bootable ISO w/ hidden files.
 
 # Inspiration
 <a href="http://www.hirensbootcd.org/">Hiren'sBoot CD</a> and my personal demand for a more uptodate, customizeable, organized, "simple" tool.
