@@ -9,6 +9,8 @@ A massive culmination of practically every freeware/open source tool I've ever u
 
 # Info 
 
+First and foremost, if you want to learn anything. Read and use this: https://www.rmprepusb.com/
+
 Less than 200MB zipped, ~306MB unzipped since the Github revision doesn't include the Ubuntu.iso (the commit errors out likely since it's 700+MB). Including a live/persistant version of Ubuntu still keeps this bootloader disc under <1GB. Which will fit on any SD card these days with plenty of space. It will eventually be small enough to fit onto a CD since right now it includes several redundancies. In addition, the ability to fit on a single CD is basically the standard for similar "all in one" repair discs.
 <br>
 
